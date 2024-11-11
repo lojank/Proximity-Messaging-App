@@ -1,6 +1,16 @@
 # Proximity Messaging App
 A real-time messaging application that allows users to communicate based on their proximity.
 
+## Screenshots
+
+### Login Page
+
+![Login Page Screenshot](client/public/login_page.png)
+
+### Chat Screen
+
+![Chat Page Screenshot](client/public/chat_page.png)
+
 ## Features
 - User authentication (login/register/logout)
 - Real-time messaging between users
